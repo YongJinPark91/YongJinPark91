@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJinPark91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :mailbox_with_mail: Contacts
-[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat&logo=notion&link=https://bit.ly/3QpT4eQ/)](https://bit.ly/3QpT4eQ/)
+[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat&logo=notion&link=https://bit.ly/3QvGyud/)](https://bit.ly/3QvGyud/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:skylock45@gmail.com)](mailto:skylock45@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:skylock45@naver.com)](mailto:skylock45@naver.com)
 
