@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=flat&logo=github&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJinPark91&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJinPark91&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJinPark91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :mailbox_with_mail: Contacts
