@@ -13,6 +13,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=flat&logo=github&logoColor=white)
+# MySQL
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+# Linux
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJinPark91&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJinPark91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
