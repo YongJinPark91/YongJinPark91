@@ -3,21 +3,18 @@
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=flat&logo=jquery&logoColor=white)
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white)
 
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=flat&logo=apachetomcat&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=flat&logo=github&logoColor=white)
 
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
-
-![react](https://img.shields.io/badge/react-FCC624.svg?&style=flat&logo=react&logoColor=#61DAFB)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJinPark91&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJinPark91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
