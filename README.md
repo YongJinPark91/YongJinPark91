@@ -17,6 +17,8 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
 
+![react](https://img.shields.io/badge/react-FCC624.svg?&style=flat&logo=react&logoColor=black)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJinPark91&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJinPark91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
